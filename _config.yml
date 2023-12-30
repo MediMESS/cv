@@ -1,0 +1,75 @@
+# Site settings
+title: Mehdi Messarat CV
+description: Mehdi Messarat CV
+favicon: /assets/img/avatar.png
+rss_url: /pages/atom.xml
+google_analytics: UA-63653234-1
+
+# Build settings
+markdown: kramdown
+
+exclude: [vendor]
+
+# Author settings
+author:
+  name: Mehdi Messarat
+  title: Front End Developer (ReactJs)
+  address: Kouba, Algiers
+  email: medimessarat@gmail.com
+  link: https://medimess.github.io/cv/
+  weibo:
+  github: https://github.com/MediMESS
+  linkedin: https://www.linkedin.com/in/mehdi-messarat-554a34112/
+  gavatar: /assets/img/avatar.png
+  stackoverflow:
+  #  stackoverflow: 4582127
+  workHistory:
+    - work1:
+      company: Immo Media
+      location: Sidi Yahia, Algiers
+      title: Frontend Developer
+      started: Sep 2021
+      duration: (Sep 2021 - Present)
+      description: Migrating from scratch to react and developping features of the plateform for the energy-related startup client.
+  educationHistory:
+    - education1:
+      organization: Université des Sciences et de la Technologie 'Houari Boumediène'
+      location: Bab ezzouar, Algiers
+      degree: Master
+      major: Artificial Intelligence
+      started: 2017
+      duration: (2017 - 2019)
+      description: My final project was to implement a recommendation system based on an innovative intelligent algorithm.
+  languages:
+    - language1:
+      name: Arabic
+      proficiency: Native
+    - language2:
+      name: English
+      proficiency: Professional
+    - language3:
+      name: French
+      proficiency: Fluency
+    - language1:
+      name:
+      proficiency:
+    - language1:
+      name: Spanish
+      proficiency: Beginner
+
+  programmingSkills:
+    - skill1:
+      name: HTML
+      percentage: 100%
+    - skill2:
+      name: ReactJs
+      percentage: 100%
+    - skill4:
+      name: CSS
+      percentage: 100%
+    - skill3:
+      name: Typescript
+      percentage: 80%
+    - skill5:
+      name: Jest Unit Testing
+      percentage: 80%
