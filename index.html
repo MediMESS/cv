@@ -24,6 +24,9 @@ layout: default
                 <small class="text-muted">
                   {% if work.title %} {{ work.title }} {% endif %}
                 </small>
+                {% if work.link %}
+                <a class="text-muted"> {{ work.link }} </a>
+                {% endif %}
               </p>
               <p>
                 <small class="text-muted">
