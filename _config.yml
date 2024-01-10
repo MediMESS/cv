@@ -32,12 +32,12 @@ author:
       duration: (Sep 2021 - Present)
       description: Migrating from scratch to react and developping features of the plateform for the energy-related startup client.
     - work2:
-      company: ZZ-Essentials
+      company: ZZ-Engineering
       location: Sidi Yahia, Algiers
       title: Freelance Frontend Developer
       started: 2024
       duration: (January 2024 - Present)
-      description: Building the website for the zz-essentials small company.
+      description: Building the website for the ZZ-Engineering small company.
       link: "https://medimess.github.io/zz-essentials/"
 
   educationHistory:
