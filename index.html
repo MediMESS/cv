@@ -28,7 +28,12 @@ layout: default
 
               {% if work.link %}
               <p>
-                <a class="text-muted" target="_blank" href="{{ work.link }}">
+                <a
+                  class="text-muted"
+                  rel="noopener noreferrer"
+                  target="_blank"
+                  href="{{ work.link }}"
+                >
                   {{ work.link }}
                 </a>
               </p>
